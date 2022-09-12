@@ -1,7 +1,5 @@
 ## 👋 Hello World  ! 
-  
-:heart: FULL STECK | PHP |LARAVEL | JAVA | CURSANDO ENGENHARIA DE SOFTWARE:
-  
+  :heart: FULL STECK | ANÁLISTAS DE SISTEMAS | CURSANDO ENGENHARIA DE SOFTWARE:
 Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre procurando minha evolução e melhoria continua.
 
 -🎓 Formado em Analista de sistemas
@@ -26,8 +24,7 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
   <img align="center" alt="Lucas-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
- 
-<div> 
- <a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">
-</div>
+  <a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">"
+   
+       
+ ##
