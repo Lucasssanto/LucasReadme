@@ -17,13 +17,12 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
 <table>
   <tr>
     <td>
-      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Lucasssanto&theme=cobalt" />
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasdosssantos&theme=cobalt" /> 
    </td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=ZenTicket&theme=cobalt" /></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsssantos&repo=t&theme=cobalt" /></td>
   </tr>  
     <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=beer-vue-admin&theme=cobalt" /></td>
-  </tr>  
+    <td>
 </table>
 </center>
 
