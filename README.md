@@ -9,7 +9,7 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
 - 🌱 Curso que estou estudando Vue.JS,React.JS, futuramente Padrão de Projetos e;
 - 💬 Pergunte-me sobre qualquer coisa. Vou tentar ajudá-lo o máximo que puder
 - ⚡ Citação: Desistir não é uma opção.
-- 📫 Onde saber mais sobre min:  [<img src="https://www.linkedin.com/in/lucas-dos-santos-973017107/" alt="dev logo">](https://www.linkedin.com/in/atila-delcanton-rampazo) 
+- 📫 Onde saber mais sobre min:  [<img src="https://www.linkedin.com/in/lucas-dos-santos-973017107/" alt="dev logo">](https://www.linkedin.com/in/lucas-dos-santos-973017107/) 
 ----
 <div align="center">
   <a href="https://github.com/Lucasssanto">
