@@ -23,8 +23,7 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  <a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">"
-   
        
  ##
+ 
+<a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">"
