@@ -17,7 +17,7 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
 <table>
   <tr>
     <td>
-      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=atiladelcanton&theme=cobalt" /> 
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Lucasssanto&theme=cobalt" />
    </td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=ZenTicket&theme=cobalt" /></td>
   </tr>  
