@@ -29,5 +29,5 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
   ##
  
 <div> 
- <a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">
 </div>
