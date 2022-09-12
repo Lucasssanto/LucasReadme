@@ -1,5 +1,7 @@
 ## 👋 Hello World  ! 
-  :heart: FULL STECK | ANÁLISTAS DE SISTEMAS | CURSANDO ENGENHARIA DE SOFTWARE:
+  
+:heart: FULL STECK | ANÁLISTAS DE SISTEMAS | CURSANDO ENGENHARIA DE SOFTWARE:
+  
 Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre procurando minha evolução e melhoria continua.
 
 -🎓 Formado em Analista de sistemas
@@ -7,7 +9,7 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
 - 🌱 Curso que estou estudando Vue.JS,React.JS, futuramente Padrão de Projetos e;
 - 💬 Pergunte-me sobre qualquer coisa. Vou tentar ajudá-lo o máximo que puder
 - ⚡ Citação: Desistir não é uma opção.
-- 📫 Onde saber mais sobre min:<a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">
+- 📫 Onde saber mais sobre min: <a href="https://www.linkedin.com/in/lucas-dos-santos-973017107/">"
 ----
 <div align="center">
   <a href="https://github.com/Lucasssanto">
@@ -23,5 +25,5 @@ Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-       
- ##
+  
+  ##
