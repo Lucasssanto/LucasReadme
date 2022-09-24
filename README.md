@@ -2,11 +2,11 @@
   
 :heart: FULL STECK | ANÁLISTAS DE SISTEMAS | CURSANDO ENGENHARIA DE SOFTWARE:
   
-Olá, me chamo Lucas, atualmente atuo como prestador de serviços , estou sempre procurando minha evolução e melhoria continua.
+Olá, me chamo Lucas,atualmente atuo como prestador de serviços, estou sempre procurando minha evolução e melhoria continua.
 
--🎓 Formado em Analista de sistemas;
--📖 Cursando Inglês;
--🏫📖 Atualmente estou estudando Engenharia de Software;
+- 🎓 Formado em Analista de sistemas;
+- 📖 Cursando Inglês;
+- 🏫📖 Atualmente estou estudando Engenharia de Software;
 - 📖Curso que estou estudando Vue.JS,React.JS, futuramente Padrão de Projetos e;
 - 💬 Pergunte-me sobre qualquer coisa. Vou tentar ajudá-lo o máximo que puder;
 - 📫 Onde saber mais sobre min: [<img src="https://img.icons8.com/cute-clipart/36/000000/linkedin.png" alt="dev logo">](https://www.linkedin.com/in/lucas-dos-santos-973017107/) 
